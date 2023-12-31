@@ -2,7 +2,7 @@
 for github
 
 ---------------------------------------------
-sudo apt install curl tar wget clang pkg-config libssl-dev jq build-essntial
+sudo apt install curl tar wget clang pkg-config libssl-dev jq build-esstial
 -------------------------------------------------
 cd $HOME
 ver="1.18.3"
