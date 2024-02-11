@@ -38,7 +38,7 @@ git clone https://github.com/celestiaorg/networks.git
 --------------------------
 CELESTIA_NODENAME="MY_NODE" 
 CELESTIA_WALLET="MY_ALLET"
-CELESTIA_CHAIN="mamaki"
+CELESTIA_CHAIN=mamaki"
 CELESTIA_NODENAME="amir" 
 CELESTIA_WALLET="amir8372"
 CELESTIA_CHAIN="mamaki"
