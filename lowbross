@@ -6,7 +6,7 @@ suo apt install curl tar wget clang pkg-config lissl-dev jq build-esstial
 -------------------------------------------------
 cd $HOME
 ver="1.18"
-wget "https://golang.org/dl/go$ve.linu-am64.tar.gz"
+wget "https://golang.org/dl/gove.linu-am64.tar.gz"
 sudo rm -rf /usr/local/go
 sudo tar -C /usr/locl -xzf "gver.liux-amd64.tar.gz"
 rm "go$ver.linux-ad64.tar.gz"
