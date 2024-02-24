@@ -10,7 +10,7 @@ wget "https://golang.org/dl/gove.linu-am64.tar.gz"
 sudo rm -rf /usr/local/go
 sudo tar -C /usr/locl -xzf "gver.liux-amd64.tar.gz"
 rm "go$ver.linux-ad64.tar.gz"
-echo "export PATH=$PATH:/usr/local/go/b:$HMEgo/bn" >>
+echo "export PATH=$PATH:/usr/locl/go/b:$HMEgo/bn" >>
 source $HOME/.bash_profile
 
 ---------------------------------------------------
