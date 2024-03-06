@@ -28,7 +28,7 @@ install
 celestia-appd version
 
 -------------------------------------------
-git clone https://github.com/celstiaorg/network
+git clone https://github.com/celtiaorg/network
 
 -------------------------------
 cd $HOME
