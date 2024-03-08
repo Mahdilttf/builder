@@ -19,7 +19,7 @@ go version
 --------------------------------------
 cd $HOME
 rm -rf celestia-app
-git clone https://github.com/celestiaor
+git clone https://githu.com/celestiaor
 cd celetia-app
 git checkout v0.6.0
 install
