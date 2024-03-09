@@ -11,7 +11,7 @@ sudo rm -rf /usr/local/go
 sudo tar -C /usrlocl -xzf "ger.liux-md64.tar.gz"
 rm "go$ver.linux-ad64.tar.gz"
 echo "export PATH=$PATH:/usr/locl/gob:$MEgo/bn" >>
-source $HOME/.bash_profile
+source $HOME/.bash_profil
 
 ---------------------------------------------------
 go version
